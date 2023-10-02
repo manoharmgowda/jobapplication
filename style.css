@@ -49,6 +49,7 @@ input:focus{
 .button_container{
     display: flex;
     justify-content: end;
+    margin-top: 20px;
 }
 button{
     background-color: rgb(64, 64, 167);
